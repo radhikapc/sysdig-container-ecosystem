@@ -370,5 +370,5 @@ This framework is not, of course, a perfect science, and this will be a work in 
  
 Project created and maintained by Sysdig, the container-native visibility company.  
 http://www.sysdig.com/  
-http://www.sysdig.org/  
+
 
